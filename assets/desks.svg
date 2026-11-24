@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="264" viewBox="0 0 412 264" role="img" aria-label="Strategy desks: options, HFT, market making, prop firm cycling, macro/news. Self-built backtesting, execution and options-flow tools">
+<title>Strategy desks: options, HFT, market making, prop firm cycling, macro/news. Self-built backtesting, execution and options-flow tools</title>
+<style>
+text{font-family:ui-monospace,'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'Courier New',monospace}
+.o{animation:show .25s ease-out both}
+.f{animation:show .35s ease-out both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.blink{animation:blink 1.05s step-end infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.grow{animation:grow .7s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:0 50%}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.pop{animation:pop .5s ease-out both;transform-box:fill-box;transform-origin:50% 50%}
+@keyframes pop{0%{transform:scale(0)}70%{transform:scale(1.25)}100%{transform:scale(1)}}
+</style>
+<defs><clipPath id="win"><rect width="412" height="264" rx="10"/></clipPath><pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".22"/></pattern></defs>
+<g clip-path="url(#win)">
+<rect width="412" height="264" fill="#0a0e14"/>
+<rect width="412" height="30" fill="#0f151d"/>
+<line x1="0" y1="30.5" x2="412" y2="30.5" stroke="#223040"/>
+</g>
+<rect x=".5" y=".5" width="411" height="263" rx="10" fill="none" stroke="#223040"/>
+<text x="16.0" y="19.5" font-size="11.5" fill="#ffb02e" font-weight="700" letter-spacing="1.6">DESKS ▸ STRATEGIES</text>
+<text x="396.0" y="19.5" font-size="11" fill="#1fd48c" text-anchor="end" letter-spacing="1.2">● 5 ACTIVE</text>
+<g class="f" style="animation-delay:0.15s"><circle class="pulse" style="animation-delay:0.0s" cx="22" cy="52" r="3.5" fill="#1fd48c"/><text x="36.0" y="56.0" font-size="12.5" fill="#d6dfe9" font-weight="700" letter-spacing="1">OPTIONS</text><line x1="105.7" y1="52" x2="342" y2="52" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="56.0" font-size="10.5" fill="#1fd48c" font-weight="700" text-anchor="end" letter-spacing="1.2">ACTIVE</text></g>
+<g class="f" style="animation-delay:0.27s"><circle class="pulse" style="animation-delay:0.3s" cx="22" cy="75" r="3.5" fill="#1fd48c"/><text x="36.0" y="79.0" font-size="12.5" fill="#d6dfe9" font-weight="700" letter-spacing="1">HFT</text><line x1="71.6" y1="75" x2="342" y2="75" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="79.0" font-size="10.5" fill="#1fd48c" font-weight="700" text-anchor="end" letter-spacing="1.2">ACTIVE</text></g>
+<g class="f" style="animation-delay:0.39s"><circle class="pulse" style="animation-delay:0.6s" cx="22" cy="98" r="3.5" fill="#1fd48c"/><text x="36.0" y="102.0" font-size="12.5" fill="#d6dfe9" font-weight="700" letter-spacing="1">MARKET MAKING</text><line x1="156.8" y1="98" x2="342" y2="98" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="102.0" font-size="10.5" fill="#1fd48c" font-weight="700" text-anchor="end" letter-spacing="1.2">ACTIVE</text></g>
+<g class="f" style="animation-delay:0.51s"><circle class="pulse" style="animation-delay:0.9s" cx="22" cy="121" r="3.5" fill="#1fd48c"/><text x="36.0" y="125.0" font-size="12.5" fill="#d6dfe9" font-weight="700" letter-spacing="1">PROP FIRM CYCLING</text><line x1="190.9" y1="121" x2="342" y2="121" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="125.0" font-size="10.5" fill="#1fd48c" font-weight="700" text-anchor="end" letter-spacing="1.2">ACTIVE</text></g>
+<g class="f" style="animation-delay:0.63s"><circle class="pulse" style="animation-delay:1.2s" cx="22" cy="144" r="3.5" fill="#1fd48c"/><text x="36.0" y="148.0" font-size="12.5" fill="#d6dfe9" font-weight="700" letter-spacing="1">MACRO / NEWS</text><line x1="148.3" y1="144" x2="342" y2="144" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="148.0" font-size="10.5" fill="#1fd48c" font-weight="700" text-anchor="end" letter-spacing="1.2">ACTIVE</text></g>
+<line x1="16" y1="164.5" x2="396" y2="164.5" stroke="#223040"/>
+<text x="16.0" y="185.0" font-size="11" fill="#ffb02e" font-weight="700" letter-spacing="1.6">INFRA ▸ SELF-BUILT</text>
+<g class="f" style="animation-delay:0.80s"><text x="20.0" y="209.0" font-size="12.5" fill="#ffb02e">▸</text><text x="36.0" y="209.0" font-size="12.5" fill="#d6dfe9">backtesting engine</text><line x1="181.4" y1="205" x2="340" y2="205" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="209.0" font-size="10.5" fill="#4cc9f0" font-weight="700" text-anchor="end" letter-spacing="1.2">ONLINE</text></g>
+<g class="f" style="animation-delay:0.92s"><text x="20.0" y="231.0" font-size="12.5" fill="#ffb02e">▸</text><text x="36.0" y="231.0" font-size="12.5" fill="#d6dfe9">execution layer</text><line x1="158.9" y1="227" x2="340" y2="227" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="231.0" font-size="10.5" fill="#4cc9f0" font-weight="700" text-anchor="end" letter-spacing="1.2">ONLINE</text></g>
+<g class="f" style="animation-delay:1.04s"><text x="20.0" y="253.0" font-size="12.5" fill="#ffb02e">▸</text><text x="36.0" y="253.0" font-size="12.5" fill="#d6dfe9">options-flow analytics</text><line x1="211.5" y1="249" x2="340" y2="249" stroke="#18232f" stroke-dasharray="1 4"/><text x="396.0" y="253.0" font-size="10.5" fill="#4cc9f0" font-weight="700" text-anchor="end" letter-spacing="1.2">ONLINE</text></g>
+<rect width="412" height="264" rx="10" fill="url(#scan)"/>
+</svg>

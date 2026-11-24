@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="336" viewBox="0 0 840 336" role="img" aria-label="Terminal: Alexandru Bucur, quant trader and quant developer">
+<title>Terminal: Alexandru Bucur, quant trader and quant developer</title>
+<style>
+text{font-family:ui-monospace,'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'Courier New',monospace}
+.o{animation:show .25s ease-out both}
+.f{animation:show .35s ease-out both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.blink{animation:blink 1.05s step-end infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.grow{animation:grow .7s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:0 50%}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.pop{animation:pop .5s ease-out both;transform-box:fill-box;transform-origin:50% 50%}
+@keyframes pop{0%{transform:scale(0)}70%{transform:scale(1.25)}100%{transform:scale(1)}}
+
+.cur{animation:show .01s linear both,blink 1.05s step-end infinite}
+.nm{animation:nm 6s steps(1,end) .9s infinite}
+@keyframes nm{0%{opacity:1}11%{opacity:.55}13%{opacity:1}100%{opacity:1}}
+.g1,.g2,.g3,.g4{opacity:0}
+.g1{animation:g1 6s steps(1,end) .9s infinite}
+.g2{animation:g2 6s steps(1,end) .9s infinite}
+.g3{animation:g3 6s steps(1,end) .9s infinite}
+.g4{animation:g4 6s steps(1,end) .9s infinite}
+@keyframes g1{0%{opacity:0;transform:none}10%{opacity:.85;transform:translate(-5px,1px)}12%{transform:translate(3px,-1px)}14%{transform:translate(-2px,0)}16%{opacity:0;transform:none}100%{opacity:0;transform:none}}
+@keyframes g2{0%{opacity:0;transform:none}10%{opacity:.85;transform:translate(5px,-1px)}12%{transform:translate(-3px,1px)}14%{transform:translate(2px,0)}16%{opacity:0;transform:none}100%{opacity:0;transform:none}}
+@keyframes g3{0%{opacity:0;transform:none}11%{opacity:1;transform:translate(11px,0)}13%{transform:translate(-8px,0)}15%{opacity:0;transform:none}100%{opacity:0;transform:none}}
+@keyframes g4{0%{opacity:0;transform:none}12%{opacity:1;transform:translate(-9px,0)}14%{opacity:0;transform:none}100%{opacity:0;transform:none}}
+.sweep{animation:sweep 7s linear infinite}
+@keyframes sweep{from{transform:translateY(0)}to{transform:translateY(426px)}}
+.ekg{animation:ekg 16s linear infinite}
+@keyframes ekg{from{transform:translateX(0)}to{transform:translateX(-840px)}}
+</style>
+<defs><clipPath id="win"><rect width="840" height="336" rx="10"/></clipPath><filter id="glow" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="glow2" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><clipPath id="sl1"><rect y="65" width="840" height="7"/></clipPath><clipPath id="sl2"><rect y="75" width="840" height="4"/></clipPath><clipPath id="ek"><rect x="24" y="116" width="792" height="40"/></clipPath><linearGradient id="sw" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".045"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><radialGradient id="vig" cx=".5" cy=".45" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".45"/></radialGradient><linearGradient id="fl"><stop offset="0" stop-color="#0a0e14"/><stop offset="1" stop-color="#0a0e14" stop-opacity="0"/></linearGradient><linearGradient id="fr"><stop offset="0" stop-color="#0a0e14" stop-opacity="0"/><stop offset="1" stop-color="#0a0e14"/></linearGradient><clipPath id="ty0"><rect x="52" y="158" height="22.400000000000002" width="60.6"><animate attributeName="width" dur="1.07s" calcMode="discrete" values="0.0;8.4;16.9;25.3;33.7;42.1;50.6;60.6" keyTimes="0.0000;0.6168;0.6729;0.7290;0.7850;0.8411;0.8972;0.9533" fill="freeze"/></rect></clipPath><clipPath id="ty1"><rect x="52" y="208" height="22.400000000000002" width="136.4"><animate attributeName="width" dur="2.81s" calcMode="discrete" values="0.0;8.4;16.9;25.3;33.7;42.1;50.6;59.0;67.4;75.9;84.3;92.7;101.1;109.6;118.0;126.4;136.4" keyTimes="0.0000;0.6619;0.6833;0.7046;0.7260;0.7473;0.7687;0.7900;0.8114;0.8327;0.8541;0.8754;0.8968;0.9181;0.9395;0.9609;0.9822" fill="freeze"/></rect></clipPath><clipPath id="ty2"><rect x="52" y="258" height="22.400000000000002" width="94.3"><animate attributeName="width" dur="4.11s" calcMode="discrete" values="0.0;8.4;16.9;25.3;33.7;42.1;50.6;59.0;67.4;75.9;84.3;94.3" keyTimes="0.0000;0.8418;0.8564;0.8710;0.8856;0.9002;0.9148;0.9294;0.9440;0.9586;0.9732;0.9878" fill="freeze"/></rect></clipPath><pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".22"/></pattern></defs>
+<g clip-path="url(#win)">
+<rect width="840" height="336" fill="#0a0e14"/>
+<rect width="840" height="30" fill="#0f151d"/>
+<line x1="0" y1="30.5" x2="840" y2="30.5" stroke="#223040"/>
+</g>
+<rect x=".5" y=".5" width="839" height="335" rx="10" fill="none" stroke="#223040"/>
+<circle cx="20" cy="15" r="5.5" fill="#ff5a6e"/>
+<circle cx="38" cy="15" r="5.5" fill="#ffb02e"/>
+<circle cx="56" cy="15" r="5.5" fill="#1fd48c"/>
+<text x="420.0" y="19.5" font-size="12" fill="#728196" text-anchor="middle">qtjohn18@qt-terminal: ~</text>
+<g filter="url(#glow)"><text x="32.0" y="84.0" font-size="38" fill="#ffb02e" font-weight="700" letter-spacing="4" class="nm">ALEXANDRU BUCUR</text></g>
+<text x="32.0" y="84.0" font-size="38" fill="#ff5a6e" font-weight="700" letter-spacing="4" class="g1">ALEXANDRU BUCUR</text>
+<text x="32.0" y="84.0" font-size="38" fill="#4cc9f0" font-weight="700" letter-spacing="4" class="g2">ALEXANDRU BUCUR</text>
+<g clip-path="url(#sl1)"><text x="32.0" y="84.0" font-size="38" fill="#d6dfe9" font-weight="700" letter-spacing="4" class="g3">ALEXANDRU BUCUR</text></g>
+<g clip-path="url(#sl2)"><text x="32.0" y="84.0" font-size="38" fill="#ffb02e" font-weight="700" letter-spacing="4" class="g4">ALEXANDRU BUCUR</text></g>
+<text x="34.0" y="111.0" font-size="12.5" fill="#728196" letter-spacing="2.5">QUANT TRADER  /  QUANT DEVELOPER</text>
+<line x1="556.5" y1="52" x2="556.5" y2="114" stroke="#223040"/>
+<text x="576.0" y="64.0" font-size="11.5" fill="#728196" letter-spacing="1.5">SESSION</text>
+<text x="576.0" y="87.0" font-size="11.5" fill="#728196" letter-spacing="1.5">VENUES</text>
+<text x="576.0" y="110.0" font-size="11.5" fill="#728196" letter-spacing="1.5">STACK</text>
+<g filter="url(#glow2)"><circle class="pulse" cx="666" cy="59.8" r="4" fill="#1fd48c"/><text x="676.0" y="64.0" font-size="12" fill="#1fd48c" font-weight="700" letter-spacing="2">LIVE</text></g>
+<text x="662.0" y="87.0" font-size="12" fill="#d6dfe9">IBKR · NinjaTrader 8</text>
+<text x="662.0" y="110.0" font-size="12" fill="#d6dfe9">PY · C++ · RUST · C#</text>
+<line x1="24" y1="136.5" x2="816" y2="136.5" stroke="#18232f"/>
+<g clip-path="url(#ek)"><g class="ekg" filter="url(#glow2)"><path d="M0.0,136.2 L10.0,138.6 L20.0,136.0 L30.0,138.0 L40.0,143.7 L50.0,136.1 L60.0,139.9 L70.0,139.0 L80.0,138.0 L90.0,138.9 L100.0,140.3 L110.0,138.9 L120.0,139.2 L130.0,142.8 L140.0,135.5 L150.0,134.8 L160.0,132.5 L170.0,122.0 L180.0,128.9 L190.0,130.6 L200.0,131.8 L210.0,132.5 L220.0,133.7 L230.0,131.7 L240.0,132.8 L250.0,134.3 L260.0,136.3 L270.0,134.5 L280.0,134.2 L290.0,130.7 L300.0,131.3 L310.0,128.3 L320.0,127.8 L330.0,132.4 L340.0,129.1 L350.0,132.8 L360.0,134.4 L370.0,134.3 L380.0,135.7 L390.0,136.8 L400.0,138.7 L410.0,137.4 L420.0,135.8 L430.0,125.8 L440.0,133.1 L450.0,133.9 L460.0,132.9 L470.0,136.0 L480.0,132.3 L490.0,131.2 L500.0,130.7 L510.0,128.1 L520.0,134.3 L530.0,130.0 L540.0,131.2 L550.0,131.6 L560.0,136.2 L570.0,132.2 L580.0,135.5 L590.0,134.2 L600.0,134.4 L610.0,133.5 L620.0,135.6 L630.0,133.4 L640.0,134.0 L650.0,135.3 L660.0,139.2 L670.0,133.4 L680.0,137.3 L690.0,138.8 L700.0,137.0 L710.0,137.3 L720.0,142.9 L730.0,139.3 L740.0,138.7 L750.0,137.5 L760.0,136.6 L770.0,136.0 L780.0,135.6 L790.0,134.0 L800.0,138.7 L810.0,134.1 L820.0,127.4 L830.0,129.8 L840.0,136.2" fill="none" stroke="#4cc9f0" stroke-width="1.2" opacity=".6"/><path d="M0.0,136.2 L10.0,138.6 L20.0,136.0 L30.0,138.0 L40.0,143.7 L50.0,136.1 L60.0,139.9 L70.0,139.0 L80.0,138.0 L90.0,138.9 L100.0,140.3 L110.0,138.9 L120.0,139.2 L130.0,142.8 L140.0,135.5 L150.0,134.8 L160.0,132.5 L170.0,122.0 L180.0,128.9 L190.0,130.6 L200.0,131.8 L210.0,132.5 L220.0,133.7 L230.0,131.7 L240.0,132.8 L250.0,134.3 L260.0,136.3 L270.0,134.5 L280.0,134.2 L290.0,130.7 L300.0,131.3 L310.0,128.3 L320.0,127.8 L330.0,132.4 L340.0,129.1 L350.0,132.8 L360.0,134.4 L370.0,134.3 L380.0,135.7 L390.0,136.8 L400.0,138.7 L410.0,137.4 L420.0,135.8 L430.0,125.8 L440.0,133.1 L450.0,133.9 L460.0,132.9 L470.0,136.0 L480.0,132.3 L490.0,131.2 L500.0,130.7 L510.0,128.1 L520.0,134.3 L530.0,130.0 L540.0,131.2 L550.0,131.6 L560.0,136.2 L570.0,132.2 L580.0,135.5 L590.0,134.2 L600.0,134.4 L610.0,133.5 L620.0,135.6 L630.0,133.4 L640.0,134.0 L650.0,135.3 L660.0,139.2 L670.0,133.4 L680.0,137.3 L690.0,138.8 L700.0,137.0 L710.0,137.3 L720.0,142.9 L730.0,139.3 L740.0,138.7 L750.0,137.5 L760.0,136.6 L770.0,136.0 L780.0,135.6 L790.0,134.0 L800.0,138.7 L810.0,134.1 L820.0,127.4 L830.0,129.8 L840.0,136.2" transform="translate(840,0)" fill="none" stroke="#4cc9f0" stroke-width="1.2" opacity=".6"/></g></g>
+<rect x="24" y="116" width="70" height="40" fill="url(#fl)"/>
+<rect x="746" y="116" width="70" height="40" fill="url(#fr)"/>
+<text x="32.0" y="172.0" font-size="14" fill="#1fd48c" font-weight="700" class="o" style="animation-delay:0.00s">❯</text>
+<text x="54" y="172" font-size="14" fill="#d6dfe9" font-weight="600" clip-path="url(#ty0)">whoami</text>
+<text x="54.0" y="195.0" font-size="13.5" fill="#d6dfe9" class="o" style="animation-delay:1.17s">quant trader &amp; developer — building my own trading infrastructure</text>
+<text x="32.0" y="222.0" font-size="14" fill="#1fd48c" font-weight="700" class="o" style="animation-delay:1.50s">❯</text>
+<text x="54" y="222" font-size="14" fill="#d6dfe9" font-weight="600" clip-path="url(#ty1)">cat markets.txt</text>
+<text x="54.0" y="245.0" font-size="13.5" fill="#ffb02e" class="o" style="animation-delay:2.91s">options · futures · crypto · stocks</text>
+<text x="32.0" y="272.0" font-size="14" fill="#1fd48c" font-weight="700" class="o" style="animation-delay:3.10s">❯</text>
+<text x="54" y="272" font-size="14" fill="#d6dfe9" font-weight="600" clip-path="url(#ty2)">ls ~/desks</text>
+<text x="54.0" y="295.0" font-size="13.5" fill="#4cc9f0" class="o" style="animation-delay:4.21s">options/  hft/  market-making/  prop-firm-cycling/  macro-news/</text>
+<text x="32.0" y="322.0" font-size="14" fill="#1fd48c" font-weight="700" class="o" style="animation-delay:4.56s">❯</text>
+<rect class="cur" style="animation-delay:4.56s,4.56s" x="54" y="310" width="8.5" height="15" fill="#1fd48c" filter="url(#glow2)"/>
+<g clip-path="url(#win)"><rect class="sweep" y="-90" width="840" height="90" fill="url(#sw)"/><rect width="840" height="336" fill="url(#vig)"/></g>
+<rect width="840" height="336" rx="10" fill="url(#scan)"/>
+</svg>

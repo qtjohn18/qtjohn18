@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="264" viewBox="0 0 412 264" role="img" aria-label="Watchlist of the stack: Python, C++, Rust, C#, IBKR API, NinjaTrader 8">
+<title>Watchlist of the stack: Python, C++, Rust, C#, IBKR API, NinjaTrader 8</title>
+<style>
+text{font-family:ui-monospace,'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,'Courier New',monospace}
+.o{animation:show .25s ease-out both}
+.f{animation:show .35s ease-out both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.blink{animation:blink 1.05s step-end infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.grow{animation:grow .7s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:0 50%}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.pop{animation:pop .5s ease-out both;transform-box:fill-box;transform-origin:50% 50%}
+@keyframes pop{0%{transform:scale(0)}70%{transform:scale(1.25)}100%{transform:scale(1)}}
+</style>
+<defs><clipPath id="win"><rect width="412" height="264" rx="10"/></clipPath><pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".22"/></pattern></defs>
+<g clip-path="url(#win)">
+<rect width="412" height="264" fill="#0a0e14"/>
+<rect width="412" height="30" fill="#0f151d"/>
+<line x1="0" y1="30.5" x2="412" y2="30.5" stroke="#223040"/>
+</g>
+<rect x=".5" y=".5" width="411" height="263" rx="10" fill="none" stroke="#223040"/>
+<text x="16.0" y="19.5" font-size="11.5" fill="#ffb02e" font-weight="700" letter-spacing="1.6">WATCHLIST ▸ STACK</text>
+<text x="396.0" y="19.5" font-size="11" fill="#728196" text-anchor="end" letter-spacing="1.2">6 SYMBOLS</text>
+<text x="16.0" y="54.0" font-size="9.5" fill="#728196" letter-spacing="1">SYM</text>
+<text x="70.0" y="54.0" font-size="9.5" fill="#728196" letter-spacing="1">NAME</text>
+<text x="170.0" y="54.0" font-size="9.5" fill="#728196" letter-spacing="1">USE</text>
+<text x="396.0" y="54.0" font-size="9.5" fill="#728196" text-anchor="end" letter-spacing="1">TREND</text>
+<line x1="16" y1="62.5" x2="396" y2="62.5" stroke="#18232f"/>
+<g class="f" style="animation-delay:0.15s"><text x="16.0" y="88.0" font-size="13" fill="#ffb02e" font-weight="700">PY</text><text x="70.0" y="88.0" font-size="13" fill="#d6dfe9">Python</text><text x="170.0" y="88.0" font-size="11.5" fill="#728196">research · backtests</text><polyline points="336.0,77.5 340.9,79.5 345.8,76.3 350.7,81.6 355.6,80.8 360.5,86.0 365.5,81.6 370.4,79.8 375.3,74.6 380.2,74.8 385.1,72.4 390.0,72.0" fill="none" stroke="#1fd48c" stroke-width="1.5" stroke-linejoin="round"/><circle class="pulse" cx="390.0" cy="72.0" r="2.5" fill="#1fd48c"/></g>
+<line x1="16" y1="99.5" x2="396" y2="99.5" stroke="#18232f" stroke-dasharray="1 3"/>
+<g class="f" style="animation-delay:0.27s"><text x="16.0" y="119.0" font-size="13" fill="#ffb02e" font-weight="700">CPP</text><text x="70.0" y="119.0" font-size="13" fill="#d6dfe9">C++</text><text x="170.0" y="119.0" font-size="11.5" fill="#728196">low-latency engines</text><polyline points="336.0,116.4 340.9,114.8 345.8,117.0 350.7,116.8 355.6,113.8 360.5,112.5 365.5,112.4 370.4,105.5 375.3,104.2 380.2,104.6 385.1,103.0 390.0,103.2" fill="none" stroke="#1fd48c" stroke-width="1.5" stroke-linejoin="round"/><circle class="pulse" cx="390.0" cy="103.2" r="2.5" fill="#1fd48c"/></g>
+<line x1="16" y1="130.5" x2="396" y2="130.5" stroke="#18232f" stroke-dasharray="1 3"/>
+<g class="f" style="animation-delay:0.39s"><text x="16.0" y="150.0" font-size="13" fill="#ffb02e" font-weight="700">RS</text><text x="70.0" y="150.0" font-size="13" fill="#d6dfe9">Rust</text><text x="170.0" y="150.0" font-size="11.5" fill="#728196">systems · tooling</text><polyline points="336.0,148.0 340.9,147.9 345.8,144.5 350.7,143.8 355.6,143.0 360.5,141.5 365.5,138.1 370.4,137.8 375.3,138.0 380.2,134.0 385.1,135.4 390.0,135.3" fill="none" stroke="#1fd48c" stroke-width="1.5" stroke-linejoin="round"/><circle class="pulse" cx="390.0" cy="135.3" r="2.5" fill="#1fd48c"/></g>
+<line x1="16" y1="161.5" x2="396" y2="161.5" stroke="#18232f" stroke-dasharray="1 3"/>
+<g class="f" style="animation-delay:0.51s"><text x="16.0" y="181.0" font-size="13" fill="#ffb02e" font-weight="700">CS</text><text x="70.0" y="181.0" font-size="13" fill="#d6dfe9">C#</text><text x="170.0" y="181.0" font-size="11.5" fill="#728196">NT8 strategies</text><polyline points="336.0,179.0 340.9,171.8 345.8,173.2 350.7,178.4 355.6,175.5 360.5,175.7 365.5,175.6 370.4,173.2 375.3,171.5 380.2,169.6 385.1,169.6 390.0,165.0" fill="none" stroke="#1fd48c" stroke-width="1.5" stroke-linejoin="round"/><circle class="pulse" cx="390.0" cy="165.0" r="2.5" fill="#1fd48c"/></g>
+<line x1="16" y1="192.5" x2="396" y2="192.5" stroke="#18232f" stroke-dasharray="1 3"/>
+<g class="f" style="animation-delay:0.63s"><text x="16.0" y="212.0" font-size="13" fill="#ffb02e" font-weight="700">IBKR</text><text x="70.0" y="212.0" font-size="13" fill="#d6dfe9">IB API</text><text x="170.0" y="212.0" font-size="11.5" fill="#728196">broker · execution</text><polyline points="336.0,210.0 340.9,208.7 345.8,208.7 350.7,205.4 355.6,202.7 360.5,204.5 365.5,204.5 370.4,200.3 375.3,199.3 380.2,199.0 385.1,197.2 390.0,196.0" fill="none" stroke="#1fd48c" stroke-width="1.5" stroke-linejoin="round"/><circle class="pulse" cx="390.0" cy="196.0" r="2.5" fill="#1fd48c"/></g>
+<line x1="16" y1="223.5" x2="396" y2="223.5" stroke="#18232f" stroke-dasharray="1 3"/>
+<g class="f" style="animation-delay:0.75s"><text x="16.0" y="243.0" font-size="13" fill="#ffb02e" font-weight="700">NT8</text><text x="70.0" y="243.0" font-size="13" fill="#d6dfe9">NinjaTrader</text><text x="170.0" y="243.0" font-size="11.5" fill="#728196">futures platform</text><polyline points="336.0,239.3 340.9,241.0 345.8,238.5 350.7,237.8 355.6,238.3 360.5,236.6 365.5,235.8 370.4,235.3 375.3,233.6 380.2,230.5 385.1,229.3 390.0,227.0" fill="none" stroke="#1fd48c" stroke-width="1.5" stroke-linejoin="round"/><circle class="pulse" cx="390.0" cy="227.0" r="2.5" fill="#1fd48c"/></g>
+<rect width="412" height="264" rx="10" fill="url(#scan)"/>
+</svg>
